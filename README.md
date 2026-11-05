@@ -21,7 +21,7 @@ wired to a 60-minute space-funk mix, and a PS-menu hub of links.
   hits, and CSS custom properties (`--bass`, `--level`, `--glitch`) drive flicker
   and the headline split.
 - **Signals hub** — PlayStation-menu tiles: **YouTube** `@jaymadeapp`, **Kick**
-  `@qxp-kick` (with a pulsing LIVE indicator), **GitHub** `jaymadeapp`.
+  `@qxp-kick` (with a pulsing LIVE indicator), **GitHub** `thetedotgg`.
 - **Manifesto + footer** — a punchy qxp about, a "now playing" indicator, a credit
   link to the source mix, the four cover glyphs, and a mute/unmute toggle.
 - **Mobile + a11y** — effects scale down on small screens, the layout reflows
